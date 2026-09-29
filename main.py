@@ -7,3 +7,6 @@ print(
     "He grabs himself a presidente, and walks towards the bar where the kind mexican man is seated."
 )
 print("They talk about video games and find out that they both likes Left 4 Dead 2")
+print(
+    "They continue conversing while shoooting back beers, asking each other if they have console or PC. They find out that they both have PCs."
+)
