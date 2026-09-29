@@ -16,4 +16,9 @@ print(
 print(
     "At some point they realize they left without paying but didn't let that ruin the night. They continued without even knowing each others name to the Dominicans place as they were being followed by an unknown figure"
 )
-print("That unknown figure is a homeless begging for dabloons, the Mexican and Dominican bring the homeless man along to cook for them for some dabloons")
+print(
+    "That unknown figure is a homeless begging for dabloons, the Mexican and Dominican bring the homeless man along to cook for them for some dabloons"
+)
+print(
+    "He kindly accepted, but this offer was only a joke. They really just wanted a third for left 4 dead 2. They took this man off the streets and to the home and set up the game."
+)
