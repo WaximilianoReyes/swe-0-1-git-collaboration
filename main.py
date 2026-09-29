@@ -6,3 +6,4 @@ print("A dominican walks into a bar, and sees a mexican drinking a bottle of cor
 print(
     "He grabs himself a presidente, and walks towards the bar where the kind mexican man is seated."
 )
+print("They talk about video games and find out that they both likes Left 4 Dead 2")
