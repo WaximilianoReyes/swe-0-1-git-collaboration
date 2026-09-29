@@ -16,3 +16,4 @@ print(
 print(
     "At some point they realize they left without paying but didn't let that ruin the night. They continued without even knowing each others name to the Dominicans place as they were being followed by an unknown figure"
 )
+print("That unknown figure is a homeless begging for dabloons, the Mexican and Dominican bring the homeless man along to cook for us")
